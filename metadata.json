@@ -1,0 +1,5 @@
+{
+  "name": "Nutrisoya",
+  "description": "Healthy Living Starts with Soya. Affordable, nutritious, and delicious soya products for everyone.",
+  "requestFramePermissions": ["geolocation"]
+}
